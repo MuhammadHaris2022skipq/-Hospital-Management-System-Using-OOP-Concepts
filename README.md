@@ -9,7 +9,7 @@ Q1 <Design & Develop> the hospital management system which can book an appointme
 
 
 
-## Detials
+## Details
 
 In this project, I have used as many concepts as we were thought during this course for example: Constructors, deconstructors, Classes, Friend Classes, Inheritance(Public), Polymorphism, Operator Overloading(Unary), Composition, Default Assignment Operator, Templates(function),Stream Functions, Exception Handling, File Handling.
 
