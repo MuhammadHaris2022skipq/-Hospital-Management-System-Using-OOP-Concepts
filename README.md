@@ -19,10 +19,14 @@ In this project, I have used as many concepts as we were thought during this cou
 ## UI interface
 
 
+
+
 ## (l) Reception 
 
 
-![image](https://user-images.githubusercontent.com/55827307/215057844-00a2cb53-fea8-4281-8476-cded31e2691b.png)
+
+
+![image](https://user-images.githubusercontent.com/55827307/215058025-8113e9da-5cf3-433d-9a46-512761278f5d.png)
 
 
 
@@ -31,7 +35,9 @@ In this project, I have used as many concepts as we were thought during this cou
 ## (2) Emergency
 
 
-![image](https://user-images.githubusercontent.com/55827307/215057430-3c1eb0c6-7047-4665-81c4-1859f1de5c4e.png)
+
+
+![image](https://user-images.githubusercontent.com/55827307/215058052-f072d834-4388-44c2-ada0-f689652175dc.png)
 
 
 
@@ -40,7 +46,11 @@ In this project, I have used as many concepts as we were thought during this cou
 
 
 
-![image](https://user-images.githubusercontent.com/55827307/215057466-8c3d1c10-a8cb-4365-b671-bc02937abc7f.png)
+
+
+![image](https://user-images.githubusercontent.com/55827307/215058069-e8ff074f-530a-4dce-854a-2efcd79e00cc.png)
+
+
 
 
 
@@ -48,7 +58,12 @@ In this project, I have used as many concepts as we were thought during this cou
 ## (4) Modify
 
 
-![image](https://user-images.githubusercontent.com/55827307/215057498-f72d5281-74b9-4c0a-ab02-23737697485b.png)
+
+
+
+![image](https://user-images.githubusercontent.com/55827307/215058122-c47f5308-bb39-40a7-9912-ff9b2e0d00b1.png)
+
+
 
 
 
@@ -57,7 +72,17 @@ In this project, I have used as many concepts as we were thought during this cou
 
 
 
-![image](https://user-images.githubusercontent.com/55827307/215057554-31725595-fafe-42a9-afb9-78c534a5fb44.png)
+
+
+![image](https://user-images.githubusercontent.com/55827307/215058222-92e6d912-5b0a-4ea4-a6f9-44bd35df6f97.png)
+
+
+
+
+
+
+![image](https://user-images.githubusercontent.com/55827307/215058252-05e92e1b-e808-4c6f-89f0-1e792e8c1fe5.png)
+
 
 
 
@@ -67,7 +92,10 @@ In this project, I have used as many concepts as we were thought during this cou
 
 
 
-![image](https://user-images.githubusercontent.com/55827307/215057599-337ac5db-c676-4cc6-afc9-e389d78a7068.png)
+
+
+![image](https://user-images.githubusercontent.com/55827307/215058283-a0faaa7f-e866-47da-a01d-5db2e6167b84.png)
+
 
 
 
@@ -76,7 +104,10 @@ In this project, I have used as many concepts as we were thought during this cou
 
 
 
-![image](https://user-images.githubusercontent.com/55827307/215057628-4fb4f9f6-6c80-49d7-9ad9-a7f5c1dcb1b0.png)
+
+
+
+![image](https://user-images.githubusercontent.com/55827307/215058313-a89267dd-9d31-4667-af50-b66554ea8cd2.png)
 
 
 
