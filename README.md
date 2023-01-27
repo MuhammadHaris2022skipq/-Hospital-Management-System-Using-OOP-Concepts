@@ -4,7 +4,7 @@ Hospital Management System contained the information related to health care and 
 
 
 ## Problem Statement
-Q1 <Design & Develop> the hospital management system which can book an appointment for the patient. The program would also be able to handle the emergency situations like emergency booking of an paitent. The program should also able to tell that whether the payment is due or not as well change date or anoy input information as well. You should be able to design management just like you are building for an major hospital.
+Q1 <Design & Develop> the hospital management system which can book an appointment for the patient. The program would also be able to handle the emergency situations like emergency booking of an paitent. The program should also able to tell that whether the payment is due or not as well change date or any input information as well. You should be able to design management just like you are building for an major hospital.
 
 
 
